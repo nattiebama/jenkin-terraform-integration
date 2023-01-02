@@ -1,7 +1,7 @@
 variable "key_pair_name" {
     type = string
     description = "keypair to utilize"
-    default = "vamsi-chunduru"
+    default = "ansible_terraform"
 }
 
 # variable "vpc_id" {
